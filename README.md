@@ -5,7 +5,7 @@
 -->
 </div>
 
-![头像](images/khn.jpg)
+![背景](images/khn.jpg)
 
 
 
