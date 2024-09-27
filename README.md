@@ -5,11 +5,7 @@
 -->
 </div>
 
-<<<<<<< HEAD
-![背景](images/khn.jpg)
-=======
 ![背景](Images/khn.jpg)
->>>>>>> 81fb1721a300b10d0ba6eb8b10dd65fab2e2d962
 
 
 
