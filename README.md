@@ -4,10 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanqin26&show_icons=true&theme=tokyonight)](https://space.bilibili.com/151270784?spm_id_from=333.1007.0.0)
 -->
 </div>
-
-![背景](Images/khn.jpg)
-
-
+![ena](README.assets/69ca050535c770efdb535c47a58f511.png)
 
 
 
